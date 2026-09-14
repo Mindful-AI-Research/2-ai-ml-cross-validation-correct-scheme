@@ -84,14 +84,14 @@
   <img src="https://img.shields.io/badge/Topic-Cross--Validation-134a4a?style=for-the-badge&labelColor=022c22" alt="Cross-Validation" />
   <img src="https://img.shields.io/badge/Focus-Leakage--Safe%20Evaluation-14532d?style=for-the-badge&labelColor=022c22" alt="Leakage-Safe Evaluation" />
   <img src="https://img.shields.io/badge/Library-scikit--learn-0f766e?style=for-the-badge&labelColor=022c22" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Splitters-KFold%20%7C%20GroupKFold%20%7C%20TimeSeriesSplit-124050?style=for-the-badge&labelColor=022c22" alt="Validation splitters" />
   <img src="https://img.shields.io/badge/Status-Class%20Material-101f2f?style=for-the-badge&labelColor=022c22" alt="Class Material" />
 </p>
 
 <p align="center">
-  <a href="<ADD_URL_HERE>"><img src="https://img.shields.io/badge/Notebook-Add%20URL-134e4a?style=for-the-badge&labelColor=022c22" alt="Notebook URL placeholder" /></a>
-  <a href="<ADD_URL_HERE>"><img src="https://img.shields.io/badge/Slides-Add%20URL-123445?style=for-the-badge&labelColor=022c22" alt="Slides URL placeholder" /></a>
-  <a href="<ADD_URL_HERE>"><img src="https://img.shields.io/badge/Class%20PDF-Add%20URL-112a3a?style=for-the-badge&labelColor=022c22" alt="Class PDF URL placeholder" /></a>
+  <a href="<ADD_URL_HERE>"><img src="https://img.shields.io/badge/Notebook-Open-134e4a?style=for-the-badge&labelColor=022c22" alt="Notebook" /></a>
+  <a href="<ADD_URL_HERE>"><img src="https://img.shields.io/badge/Slides-Open-123445?style=for-the-badge&labelColor=022c22" alt="Slides" /></a>
 </p>
 
 <br><br>
+
+
