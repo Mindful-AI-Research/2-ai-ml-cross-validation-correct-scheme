@@ -1,8 +1,10 @@
+<br>
+
 <!--START  🇬🇧English LANGUAGE BUTTON  -->
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
-
+<br><br>
 
 
 <!-- ======================================= Start Title ======================================= -->
@@ -33,13 +35,9 @@
 
 
 ###### <p align="center"> 99% accuracy ? Impressive... Congratulations...
-
 ###### <p align="center"> ***Your model may be a genius,*** Or...  ***your validation strategy may be.*** 👀
-
 ###### <p align="center"> Which splits? Which separation rule? What leakage was prevented? How much does the result actually vary?
-
 ###### <p align="center"> **Because sometimes the model is not overperforming. The evaluation is under-questioning.**
-
 #### <p align="center"> ⚡️
 
 
