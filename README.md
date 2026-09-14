@@ -8,7 +8,7 @@
 
 
 <!-- ======================================= Start Title ======================================= -->
-# <p align="center">  🎯 2- [Data Science & AI/ML]() ⥅  [Class 6 and 7]()  ❌ [Cross-Validation — From Rotation to the Right Scheme]()
+# <p align="center">   2- [Data Science & AI/ML]() 🎯  [Class 6 and 7]()  ⥅  [Cross-Validation — From Rotation to the Right Scheme]()
 
 
 
