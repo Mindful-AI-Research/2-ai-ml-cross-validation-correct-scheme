@@ -75,7 +75,20 @@
 <br><br>
 <!-- ======================================= SZEnd Institutional INFO ===========================================  -->
 
+<br><br>
 
+
+
+## [Week 6 and 7]() —  Cross-Validation from Rotation to Correct-Schema and Nested Croiss Validation
+
+
+https://github.com/user-attachments/assets/4097ba66-9586-4e2f-a10e-5f7189d4ed91
+
+
+### 📺 [You Tube](https://youtu.be/Wc-ysPS2kZE)
+
+
+<br><br>
 
 
 
