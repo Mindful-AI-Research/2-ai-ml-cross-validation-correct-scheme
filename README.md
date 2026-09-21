@@ -4,15 +4,17 @@
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
-<br>
-
-
+<br><br>
 <!-- ======================================= Start Title ======================================= -->
+
+
+
+
 # <p align="center">   2- [Data Science & AI/ML]() 🎯  [Class 6 and 7]()  ⥅  [Cross-Validation — From Rotation to the Right Scheme]()
 
 
 
-
+<br><br>
 
 
 
@@ -75,11 +77,10 @@
 <br><br>
 <!-- ======================================= SZEnd Institutional INFO ===========================================  -->
 
-<br><br>
 
 
 
-## [Week 6 and 7]() —  Cross-Validation from Rotation to Correct-Schema and Nested Croiss Validation
+## Cross-Validation from Rotation to Correct-Schema and Nested Croiss Validation
 
 
 https://github.com/user-attachments/assets/4097ba66-9586-4e2f-a10e-5f7189d4ed91
